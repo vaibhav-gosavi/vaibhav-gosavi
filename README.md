@@ -10,9 +10,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **Devops**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **vgosavi070@gmail.com**
 
