@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif)
 <h1 align="center">Hi 👋, I'm Vaibhav gosavi</h1>
 <h3 align="center">A passionate Computer science student</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-gosavi&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-gosavi" /> </p>
@@ -15,6 +15,8 @@
 - 📫 How to reach me **vgosavi070@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
