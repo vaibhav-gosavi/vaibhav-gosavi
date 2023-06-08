@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-gosavi" alt="vaibhav-gosavi" /></a> </p>
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
+
 - 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **Devops**
@@ -16,7 +18,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
