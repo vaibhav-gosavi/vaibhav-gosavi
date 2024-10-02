@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif)
+
 <h1 align="center">Hi 👋, I'm Vaibhav gosavi</h1>
 <h3 align="center">A passionate Computer science student</h3>
 
