@@ -10,9 +10,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **MERN and Nextjs**
 
-- 💬 Ask me about ****
+- 💬 Ask me about **web dev and devops**
 
 - 📫 How to reach me **vgosavi070@gmail.com**
 
